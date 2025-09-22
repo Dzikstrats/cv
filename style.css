@@ -1,0 +1,35 @@
+body {
+    background-color: aliceblue;
+}
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 500px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    background-color: black; 
+    color: white; 
+    padding: 5px; 
+    width: 500px;
+    border-radius: 7px;
+}
+
+.container {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0 auto;
+    text-align: justify;
+    max-width: 800px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.container2 {
+    padding: 15px;
+}
